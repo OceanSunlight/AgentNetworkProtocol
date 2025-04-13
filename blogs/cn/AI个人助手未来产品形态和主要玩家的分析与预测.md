@@ -183,7 +183,10 @@ AgentNetworkProtocol的目标是成为智能体互联网时代的HTTP协议。
 
 ANP开源技术社区正在招募开发者，如果您对智能体通信协议感兴趣，欢迎加入我们，共同定义智能体之间的连接方式，探索Agentic Web的未来。
 
-- 联系方式：Discord: https://discord.gg/sFjBKTY7sB
-- 官网：https://agent-network-protocol.com/
-- GitHub：https://github.com/agent-network-protocol/AgentNetworkProtocol
-- 微信：flow10240
+联系方式：Discord: https://discord.gg/sFjBKTY7sB
+
+官网：https://agent-network-protocol.com/
+
+GitHub：https://github.com/agent-network-protocol/AgentNetworkProtocol
+
+微信：flow10240
